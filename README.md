@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aswad Ransing</h1>
 <h3 align="center">IT Engineering Student | Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashawat07&label=Profile%20views&color=0e75b6&style=flat" alt="ashawat07" /> </p>
+<img align="right" alt="coding"  width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashawat07" alt="ashawat07" /></a> </p>
 
